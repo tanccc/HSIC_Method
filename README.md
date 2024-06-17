@@ -16,3 +16,5 @@ tensorflow-gpu  2.4.0
 "l=2" is ssarn
 
 "l=1" is mdl4ow
+
+run demo_salinas.py
